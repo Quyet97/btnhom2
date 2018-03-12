@@ -1,0 +1,36 @@
+C:\Users\Quang Trong\Desktop\Study\WinForm\QuanLyThuvien\QuanLyThuvien\bin\Debug\QuanLyThuvien.exe.config
+C:\Users\Quang Trong\Desktop\Study\WinForm\QuanlyThuvien\QuanLyThuvien\bin\Debug\QuanLyThuvien.exe
+C:\Users\Quang Trong\Desktop\Study\WinForm\QuanlyThuvien\QuanLyThuvien\bin\Debug\QuanLyThuvien.pdb
+C:\Users\Quang Trong\Desktop\Study\WinForm\QuanlyThuvien\QuanLyThuvien\obj\Debug\QuanLyThuvien.csprojResolveAssemblyReference.cache
+C:\Users\Quang Trong\Desktop\Study\WinForm\QuanlyThuvien\QuanLyThuvien\obj\Debug\QuanLyThuvien.fLogin.resources
+C:\Users\Quang Trong\Desktop\Study\WinForm\QuanlyThuvien\QuanLyThuvien\obj\Debug\QuanLyThuvien.form.Bandoc.resources
+C:\Users\Quang Trong\Desktop\Study\WinForm\QuanlyThuvien\QuanLyThuvien\obj\Debug\QuanLyThuvien.form.Phieumuon.resources
+C:\Users\Quang Trong\Desktop\Study\WinForm\QuanlyThuvien\QuanLyThuvien\obj\Debug\QuanLyThuvien.Properties.Resources.resources
+C:\Users\Quang Trong\Desktop\Study\WinForm\QuanlyThuvien\QuanLyThuvien\obj\Debug\QuanLyThuvien.csproj.GenerateResource.Cache
+C:\Users\Quang Trong\Desktop\Study\WinForm\QuanlyThuvien\QuanLyThuvien\obj\Debug\QuanLyThuvien.exe
+C:\Users\Quang Trong\Desktop\Study\WinForm\QuanlyThuvien\QuanLyThuvien\obj\Debug\QuanLyThuvien.pdb
+C:\Users\x.knight\Desktop\QuanLyThuvien\QuanLyThuvien\bin\Debug\QuanLyThuvien.exe.config
+C:\Users\x.knight\Desktop\QuanLyThuvien\QuanLyThuvien\obj\Debug\QuanLyThuvien.exe
+C:\Users\x.knight\Desktop\QuanLyThuvien\QuanLyThuvien\obj\Debug\QuanLyThuvien.pdb
+C:\Users\x.knight\Desktop\QuanLyThuvien\QuanLyThuvien\bin\Debug\QuanLyThuvien.exe
+C:\Users\x.knight\Desktop\QuanLyThuvien\QuanLyThuvien\bin\Debug\QuanLyThuvien.pdb
+C:\Users\x.knight\Desktop\QuanLyThuvien\QuanLyThuvien\obj\Debug\QuanLyThuvien.csprojResolveAssemblyReference.cache
+C:\Users\x.knight\Desktop\QuanLyThuvien\QuanLyThuvien\obj\Debug\QuanLyThuvien.fLogin.resources
+C:\Users\x.knight\Desktop\QuanLyThuvien\QuanLyThuvien\obj\Debug\QuanLyThuvien.form.Bandoc.resources
+C:\Users\x.knight\Desktop\QuanLyThuvien\QuanLyThuvien\obj\Debug\QuanLyThuvien.form.Phieumuon.resources
+C:\Users\x.knight\Desktop\QuanLyThuvien\QuanLyThuvien\obj\Debug\QuanLyThuvien.Properties.Resources.resources
+C:\Users\x.knight\Desktop\QuanLyThuvien\QuanLyThuvien\obj\Debug\QuanLyThuvien.csproj.GenerateResource.Cache
+D:\co so du lieu\baitap\QuanLyThuvien\QuanLyThuvien\bin\Debug\QuanLyThuvien.exe.config
+D:\co so du lieu\baitap\QuanLyThuvien\QuanLyThuvien\obj\Debug\QuanLyThuvien.exe
+D:\co so du lieu\baitap\QuanLyThuvien\QuanLyThuvien\obj\Debug\QuanLyThuvien.pdb
+D:\co so du lieu\baitap\QuanLyThuvien\QuanLyThuvien\bin\Debug\QuanLyThuvien.exe
+D:\co so du lieu\baitap\QuanLyThuvien\QuanLyThuvien\bin\Debug\QuanLyThuvien.pdb
+D:\co so du lieu\baitap\QuanLyThuvien\QuanLyThuvien\obj\Debug\QuanLyThuvien.csprojResolveAssemblyReference.cache
+D:\co so du lieu\baitap\QuanLyThuvien\QuanLyThuvien\obj\Debug\QuanLyThuvien.fLogin.resources
+D:\co so du lieu\baitap\QuanLyThuvien\QuanLyThuvien\obj\Debug\QuanLyThuvien.form.Bandoc.resources
+D:\co so du lieu\baitap\QuanLyThuvien\QuanLyThuvien\obj\Debug\QuanLyThuvien.form.Phieumuon.resources
+D:\co so du lieu\baitap\QuanLyThuvien\QuanLyThuvien\obj\Debug\QuanLyThuvien.Properties.Resources.resources
+D:\co so du lieu\baitap\QuanLyThuvien\QuanLyThuvien\obj\Debug\QuanLyThuvien.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\baitap\QuanLyThuvien\QuanLyThuvien\bin\Debug\QuanLyThuvien.exe.config
+C:\Users\DELL\Desktop\baitap\QuanLyThuvien\QuanLyThuvien\obj\Debug\QuanLyThuvien.exe
+C:\Users\DELL\Desktop\baitap\QuanLyThuvien\QuanLyThuvien\obj\Debug\QuanLyThuvien.pdb
